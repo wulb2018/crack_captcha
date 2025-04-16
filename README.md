@@ -1,5 +1,6 @@
 # 记一次破解滑动验证码
 
-<video id="video" controls="" preload="none" poster="封面">
-      <source id="mp4" src="/videos/huadong.mp4" type="video/mp4">
-</video>
+
+
+https://github.com/user-attachments/assets/25611b89-9d16-4090-885d-fbc2aa84007b
+
